@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T10:58:45.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="jYkQJ69hSaGcvEroj2Uu" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T11:07:30.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="mUZDRkFj4KJjFwNaewzq" version="15.5.4" type="github">
   <diagram id="z3iJyS6G2OHiPCfUmO4g" name="Page-1">
     <mxGraphModel dx="917" dy="2636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -122,6 +122,9 @@
         </mxCell>
         <mxCell id="TqPhmjrm5wLVUKFQA4TX-37" value="Blog site" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="60" y="-1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TqPhmjrm5wLVUKFQA4TX-39" value="EGEMART MVP OVERVIEW&amp;nbsp;&lt;br&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-1580" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
